@@ -17,17 +17,4 @@ attr_accessor :id, :first_name, :last_name, :email, :note
 		@crm1.new_contact(id, first_name, last_name, email, note)
 	end
 
-
-	def modify_contact
-	end
-
-	def delete_contact
-	end
-
-	def display_contact
-	end
-
-	def display_attribute
-	end
-
 end
